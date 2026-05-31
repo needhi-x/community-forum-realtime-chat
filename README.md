@@ -117,7 +117,7 @@ Backend: http://localhost:5000
 ![Chat UI](Screenshots/chat_test.png)
 
 ### 2 User Interaction
-![Interaction](Screenshots/interaction_with_users.png)
+![Interaction](Screenshots/interactions_with_users.png)
 
 ---
 ## Learning Outcomes
